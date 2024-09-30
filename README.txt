@@ -1,11 +1,3 @@
-***************************************************************
-* Arduino PID Library - Version 1.2.1
-* by Brett Beauregard <br3ttb@gmail.com> brettbeauregard.com
-*
-* This Library is licensed under the MIT License
-***************************************************************
+Drone Stability with PID Control
 
- - For an ultra-detailed explanation of why the code is the way it is, please visit: 
-   http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/
-
- - For function documentation see:  http://playground.arduino.cc/Code/PIDLibrary (Click "Libraries" on the left panel. The link to the documentation is listed as "PIDLibrary - Provides basic feedback control".)
+This project, under the supervision of Professor Gopal Patil, focuses on using a PID controller to maintain the stability of a quadcopter drone. By adjusting motor speeds based on real-time sensor feedback from IMU sensors (accelerometer and gyroscope), the drone achieves precise balance and smooth flight performance.
